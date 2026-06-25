@@ -39,6 +39,7 @@ F= [1,2,3,4,5]
 G={1,"Hi",7,"Hello"}
 H= (1,2,3,4,5)
 I= {1: "hello", 2: "hi", 3: "how are you"}
+J = 12 + 3j
 
 print(type(A))
 print(type(B))
@@ -49,3 +50,4 @@ print(type(F))
 print(type(G))
 print(type(H))
 print(type(I))
+print(type(J))
